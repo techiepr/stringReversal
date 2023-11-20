@@ -1,2 +1,2 @@
 # stringReversal
-This is to reverse a string in Python using recursion method
+This is to reverse a string in Python using recursion method.
